@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 VERSION = '1.0.0' 
-DESCRIPTION = 'uwpy: A Python package for creating GDS files'
+DESCRIPTION = 'uwgds: A Python package for creating GDS files'
 
 # Setting up
 setup(
-        name="uwpy", 
+        name="uwgds", 
         version=VERSION,
         author="Ameya Velankar",
         author_email="<velankar@uw.edu>",
