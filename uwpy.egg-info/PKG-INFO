@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: uwpy
+Version: 1.0.0
+Summary: uwpy: A Python package for creating GDS files
+Author: Ameya Velankar
+Author-email: <velankar@uw.edu>
+Keywords: python,gds
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: gdsfactory
