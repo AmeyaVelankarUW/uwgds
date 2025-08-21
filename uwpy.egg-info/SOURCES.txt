@@ -1,7 +1,0 @@
-README.md
-setup.py
-uwpy.egg-info/PKG-INFO
-uwpy.egg-info/SOURCES.txt
-uwpy.egg-info/dependency_links.txt
-uwpy.egg-info/requires.txt
-uwpy.egg-info/top_level.txt
